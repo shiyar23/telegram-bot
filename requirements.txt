@@ -1,3 +1,4 @@
 python-telegram-bot==20.7
 google-api-python-client==2.111.0
 google-auth==2.25.2
+packaging==24.1
